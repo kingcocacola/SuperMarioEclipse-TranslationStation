@@ -100,17 +100,17 @@
 	+ in the coral reefs.\n
 	+ They are timid but\n
 	+ highly intellectual.
-     d	= Delfino Airstrip
-     e	= Delfino Plaza
-     f	= Bianco Hills
-    10	= Ricco Harbor
-    11	= Gelato Beach
-    12	= Pinna Park
-    13	= Sirena Beach
-    14	= Pianta Village
-    15	= Noki Bay
-    16	= Corona Mountain
-    17	= Origin of Power: Shine Sprite
-    18	= Pianta: The Mountain People
-    19	= Noki: The Sea People
+     d	= Aeroporto Delfino
+     e	= Delfinia
+     f	= Colli Ariosi
+    10	= Porto Giocondo
+    11	= Lido Raggiante
+    12	= Girasolandia
+    13	= Sabbie Rosse
+    14	= Villaggio delle Palme
+    15	= Baia dei Noki
+    16	= Vulcano Corona
+    17	= I Soli Custodi: l'energia vitale
+    18	= I Palmensi: gente di montagna
+    19	= I Noki: gente di mare
 
