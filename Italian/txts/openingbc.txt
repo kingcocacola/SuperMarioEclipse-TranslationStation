@@ -14,13 +14,14 @@
 @UNKNOWN-MID32-0C = 0
 
 
-     0	= Go straight that way. \n
-	+ You can't miss the mess, pal!\n
+     0	= È da quella parte... \n
+	+ È impossibile
+          non vedere quella sporcizia!\n
 	+ \n
-     1	= Your first job's to get rid of \n
-	+ all that ugliness.
-     2	= And remember, we'll be watching you,\n
+     1	= Il tuo primo compito è \n
+	+ ripulire quella melma disgustosa.
+     2	= E ricorda... Ti terremo d'occhio!\n
 	+ pal.\n
 	+ \n
-     3	= We'll know if you start slacking off.
+     3	= Se batti la fiacca, lo verremo a sapere!
 
